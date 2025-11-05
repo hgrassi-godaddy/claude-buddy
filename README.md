@@ -1,6 +1,7 @@
 # Claude Buddy 🤖
 
-Hackathon project created by the Patacones Unicorns
+Hackathon project created by the Patacones Unicorns (Patacorns for short)
+
 <img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/a5002305-adfc-4c94-8baf-94ff15c05824" />
 
 A friendly coding companion interface built with React and Tailwind CSS. Claude Buddy provides an interactive chat experience with a customizable AI assistant for coding help and conversation.
