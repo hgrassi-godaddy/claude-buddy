@@ -1,3 +1,5 @@
+# Claude Code Extension
+[Claude Buddy is now an extension](https://github.com/hgrassi-godaddy/claude-code-buddy-extension)
 # Claude Buddy 🤖
 
 Hackathon project created by the Patacones Unicorns (Patacorns for short): Adol Coneo, Kevin Tellez, and Haley Grassi
